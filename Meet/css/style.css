@@ -1,0 +1,21 @@
+header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: normal normal 800 60px/82px Open Sans;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    color: white;
+}
+
+header h1{
+    font-size: 60px;
+}
+
+header h3{
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+#000000 0-9-a-f
