@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+header h1 {
+  color: white;
+  text-align: center;
+}

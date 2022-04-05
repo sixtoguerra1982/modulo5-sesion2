@@ -9,6 +9,16 @@ header {
     color: white;
 }
 
+/* li{
+    display: inline;
+} */
+
+.icono{
+    width: 50px;
+    height: 50px;
+    fill: #000000;
+}
+
 header h1{
     font-size: 60px;
 }
@@ -16,4 +26,20 @@ header h1{
 header h3{
     font-size: 40px;
     font-weight: lighter;
+}
+
+#section_one{
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.dpinline{
+    display: inline;
+}
+.dpblock{
+    display: block;
+}
+
+.color-rojo{
+  color: #1e1a13;
 }

@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#texto-fijo{
+ position: fixed;
+}
+
+.mt-100{
+    padding-top: 100px;
+}
